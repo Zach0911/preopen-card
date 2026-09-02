@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "preopen-card"
+version = "0.1.0"
+description = "Generate a 1080×1440 pre-open briefing PNG (开盘卡). Public information only — not investment advice."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.11"
+authors = [{name = "Zach0911"}]
+keywords = ["png", "market", "preopen", "poster"]
+dependencies = ["pillow>=10.3,<12"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+preopen-card = "preopen_card.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/Zach0911/preopen-card"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+preopen_card = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
