@@ -1,0 +1,53 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "^IXIC",
+          "regularMarketPrice": 17890.33,
+          "chartPreviousClose": 17640.0,
+          "regularMarketTime": 1788292800,
+          "exchangeTimezoneName": "America/New_York"
+        },
+        "timestamp": [
+          1787947200,
+          1788033600,
+          1788292800
+        ],
+        "indicators": {
+          "quote": [
+            {
+              "close": [
+                17510.0,
+                17640.0,
+                17890.33
+              ],
+              "open": [
+                17510.0,
+                17640.0,
+                17890.33
+              ],
+              "high": [
+                17510.0,
+                17640.0,
+                17890.33
+              ],
+              "low": [
+                17510.0,
+                17640.0,
+                17890.33
+              ],
+              "volume": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

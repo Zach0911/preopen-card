@@ -1,0 +1,53 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "^DJI",
+          "regularMarketPrice": 41220.18,
+          "chartPreviousClose": 41305.4,
+          "regularMarketTime": 1788292800,
+          "exchangeTimezoneName": "America/New_York"
+        },
+        "timestamp": [
+          1787947200,
+          1788033600,
+          1788292800
+        ],
+        "indicators": {
+          "quote": [
+            {
+              "close": [
+                41100.0,
+                41305.4,
+                41220.18
+              ],
+              "open": [
+                41100.0,
+                41305.4,
+                41220.18
+              ],
+              "high": [
+                41100.0,
+                41305.4,
+                41220.18
+              ],
+              "low": [
+                41100.0,
+                41305.4,
+                41220.18
+              ],
+              "volume": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

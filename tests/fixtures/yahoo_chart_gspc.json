@@ -1,0 +1,53 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "^GSPC",
+          "regularMarketPrice": 5634.52,
+          "chartPreviousClose": 5601.1,
+          "regularMarketTime": 1788292800,
+          "exchangeTimezoneName": "America/New_York"
+        },
+        "timestamp": [
+          1787947200,
+          1788033600,
+          1788292800
+        ],
+        "indicators": {
+          "quote": [
+            {
+              "close": [
+                5580.0,
+                5601.1,
+                5634.52
+              ],
+              "open": [
+                5580.0,
+                5601.1,
+                5634.52
+              ],
+              "high": [
+                5580.0,
+                5601.1,
+                5634.52
+              ],
+              "low": [
+                5580.0,
+                5601.1,
+                5634.52
+              ],
+              "volume": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

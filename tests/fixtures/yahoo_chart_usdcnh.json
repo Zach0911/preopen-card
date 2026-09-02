@@ -1,0 +1,53 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "currency": "USD",
+          "symbol": "USDCNH=X",
+          "regularMarketPrice": 7.1234,
+          "chartPreviousClose": 7.11,
+          "regularMarketTime": 1788292800,
+          "exchangeTimezoneName": "America/New_York"
+        },
+        "timestamp": [
+          1787947200,
+          1788033600,
+          1788292800
+        ],
+        "indicators": {
+          "quote": [
+            {
+              "close": [
+                7.108,
+                7.11,
+                7.1234
+              ],
+              "open": [
+                7.108,
+                7.11,
+                7.1234
+              ],
+              "high": [
+                7.108,
+                7.11,
+                7.1234
+              ],
+              "low": [
+                7.108,
+                7.11,
+                7.1234
+              ],
+              "volume": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}
