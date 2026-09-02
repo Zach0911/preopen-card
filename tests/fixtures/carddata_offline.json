@@ -1,0 +1,46 @@
+{
+  "card_date": "2026-09-02",
+  "indices": [
+    {
+      "symbol": "^GSPC",
+      "name_zh": "标普500",
+      "last": 5634.52,
+      "change_pct": 0.5967,
+      "source": "yahoo",
+      "status": "ok"
+    },
+    {
+      "symbol": "^DJI",
+      "name_zh": "道琼斯",
+      "last": 41220.18,
+      "change_pct": -0.2063,
+      "source": "yahoo",
+      "status": "ok"
+    },
+    {
+      "symbol": "^IXIC",
+      "name_zh": "纳斯达克",
+      "last": 17890.33,
+      "change_pct": 1.4191,
+      "source": "yahoo",
+      "status": "ok"
+    }
+  ],
+  "fx": {
+    "pair": "USDCNH",
+    "last": 7.1234,
+    "status": "ok",
+    "is_dxy_fallback": false
+  },
+  "headline_titles": [
+    "美联储官员讨论通胀与利率路径",
+    "农业部发布农产品供需报告综述",
+    "US stock futures steady ahead of manufacturing data"
+  ],
+  "calendar_titles": [
+    "A股今日开市",
+    "ISM Manufacturing PMI",
+    "Caixin Manufacturing PMI",
+    "JOLTs Job Openings"
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>BBC Business</title>
+    <item>
+      <title>US stock futures steady ahead of manufacturing data</title>
+      <link>https://www.bbc.co.uk/news/business-preopen-1</link>
+    </item>
+    <item>
+      <title>China factory activity in focus before the open</title>
+      <link>https://www.bbc.co.uk/news/business-preopen-2</link>
+    </item>
+    <item>
+      <title>Analysts downgrade airline shares after fuel spike</title>
+      <link>https://www.bbc.co.uk/news/business-skip-downgrade</link>
+    </item>
+  </channel>
+</rss>

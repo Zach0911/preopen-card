@@ -1,0 +1,40 @@
+[
+  {
+    "title": "ISM Manufacturing PMI",
+    "country": "USD",
+    "date": "2026-09-02T08:00:00+08:00",
+    "impact": "High",
+    "forecast": "48.5",
+    "previous": "48.0"
+  },
+  {
+    "title": "JOLTs Job Openings",
+    "country": "USD",
+    "date": "2026-09-02T22:00:00+08:00",
+    "impact": "High"
+  },
+  {
+    "title": "Caixin Manufacturing PMI",
+    "country": "CNY",
+    "date": "2026-09-02T09:45:00+08:00",
+    "impact": "High"
+  },
+  {
+    "title": "Low impact fluff",
+    "country": "USD",
+    "date": "2026-09-02T10:00:00+08:00",
+    "impact": "Low"
+  },
+  {
+    "title": "Euro CPI",
+    "country": "EUR",
+    "date": "2026-09-02T15:00:00+08:00",
+    "impact": "High"
+  },
+  {
+    "title": "Nonfarm Payrolls",
+    "country": "USD",
+    "date": "2026-09-04T20:30:00+08:00",
+    "impact": "High"
+  }
+]

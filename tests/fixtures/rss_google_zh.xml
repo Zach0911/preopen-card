@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Google News</title>
+    <item>
+      <title>美联储官员讨论通胀与利率路径</title>
+      <link>https://news.example.com/fed-inflation?utm_source=google&amp;utm_medium=rss</link>
+      <guid>https://news.example.com/fed-inflation?utm_source=google</guid>
+    </item>
+    <item>
+      <title>某券商强烈推荐必看黑马，目标价上调</title>
+      <link>https://news.example.com/stock-pitch</link>
+    </item>
+    <item>
+      <title>农业部发布农产品供需报告综述</title>
+      <link>https://news.example.com/usda-report</link>
+    </item>
+    <item>
+      <title>Upgrade on mega-cap tech: price target raised</title>
+      <link>https://news.example.com/upgrade-tech</link>
+    </item>
+  </channel>
+</rss>
